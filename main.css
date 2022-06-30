@@ -1,0 +1,14 @@
+body {
+    --color-green: #89c82e;
+    --color-grey: #3c3c3b;
+    --color-pink: #700064;
+    --border-radius: 4px;
+
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    font-size: 18px;
+    /*background:*/
+}
